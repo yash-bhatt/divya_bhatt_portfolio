@@ -1,0 +1,26 @@
+/* ============================================
+   DESIGN TOKENS & CSS CUSTOM PROPERTIES
+   EVaayu Design Studio — Divya Bhatt Portfolio
+   ============================================ */
+
+:root {
+  /* Color Palette */
+  --cream:        #f5f0e8;
+  --off-white:    #faf8f4;
+  --warm-gray:    #8c8680;
+  --dark:         #1a1714;
+  --mid:          #3d3830;
+  --accent:       #b5975a;
+  --accent-light: #d4b97a;
+  --border:       rgba(140, 134, 128, 0.2);
+
+  /* Spacing */
+  --section-pad: clamp(60px, 8vw, 120px);
+
+  /* Layout */
+  --container: 1240px;
+
+  /* Typography */
+  --font-serif: 'Cormorant Garamond', Georgia, serif;
+  --font-sans:  'Inter', system-ui, sans-serif;
+}
